@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://fmi-fe.vercel.app/">홈페이지</a>
+  <a href="https://www.finditem.kr/">홈페이지</a>
   ·
   <!-- <a href="">디자인 시안(Figma)</a> -->
 </div>
