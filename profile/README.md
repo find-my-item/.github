@@ -9,7 +9,7 @@
 
 <div align="center">
   <!-- <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/> -->
-  이미지 추가 예정
+  <!--  이미지 추가 예정 -->
 </div>
 
 <br/>
